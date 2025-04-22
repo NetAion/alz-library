@@ -1,0 +1,7 @@
+{
+  "$schema": "https://raw.githubusercontent.com/Azure/Azure-Landing-Zones-Library/main/schemas/library_metadata.json",
+  "name": "ALZ-Zero-Policy",
+  "display_name": "Azure Landing Zones - Zero Policy",
+  "description": "This library is a zero policy version of the ALZ library that provides the reference set of Azure Landing Zones (ALZ) policies, archetypes, and management group architecture.",
+  "path": "platform/alz-zero-policy"
+}
