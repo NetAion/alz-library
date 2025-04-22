@@ -1,0 +1,15 @@
+{
+  "$schema": "https://raw.githubusercontent.com/Azure/Azure-Landing-Zones-Library/main/schemas/architecture_definition.json",
+  "name": "alz",
+  "management_groups": [
+    {
+      "archetypes": [
+        "root"
+      ],
+      "display_name": "EPL-NetInfra",
+      "exists": true,
+      "id": "EPL-NetInfra-2022",
+      "parent_id": null
+    }
+  ]
+}
